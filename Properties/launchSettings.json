@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "POC.Athena.Aws": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "AwsSecretAccessKey": "",
+        "AwsAthenaDatabase": "",
+        "AwsS3BucketLocation": "",
+        "AwsAccessKeyId": ""
+      }
+    }
+  }
+}
